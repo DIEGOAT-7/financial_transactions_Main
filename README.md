@@ -1,4 +1,5 @@
-### financial_transactions_Main
+## **Análisis Financiero Integral: Segmentación de Clientes y Detección de Fraude**
+
 Kaggle financial transaction dataset, we will do a complete project, from EDA, visualization, segmentation, predictive model and 1 Dashboard
 
 # PROJECT OBJECTIVES
