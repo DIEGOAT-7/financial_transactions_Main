@@ -23,13 +23,13 @@ El proyecto va desde la limpieza de datos brutos y el análisis exploratorio, pa
 
 ### **Herramientas y Tecnologías Utilizadas**
 
-- **Python:** pandas, numpy, matplotlib, seaborn
+- **Python:** pandas, numpy, matplotlib, seaborn   
 
-- **Machine Learning:** scikit-learn (KMeans, LogisticRegression, RandomForest, train_test_split), XGBoost, LightGBM
+- **Machine Learning:** scikit-learn (KMeans, LogisticRegression, RandomForest, train_test_split), XGBoost, LightGBM  
 
 - **Manejo de Desequilibrio:** imblearn (SMOTE)
 
-- **Visualización y BI:** Tableau Public
+- **Visualización y BI:** Tableau Public  
 
 - **Entorno de Desarrollo:** Jupyter Notebooks / VS Code
 
